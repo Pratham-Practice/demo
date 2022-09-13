@@ -1,2 +1,7 @@
 1 add
+
 2 sub
+
+3 div 
+
+4 mul
